@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Our joy does not have to be based on our \
-\ circumstances.                           /
- ------------------------------------------
+ ________________________________________
+/ He who loses wealth loses much; he who \
+| loses a friend loses more; but he that |
+\ loses his courage loses all.           /
+ ----------------------------------------
     \
      \
       (\_/)
