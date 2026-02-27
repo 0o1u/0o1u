@@ -3,10 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- _______________________________________
-/ Success is achieved and maintained by \
-\ those who try and keep trying.        /
- ---------------------------------------
+ ___________________________________________
+< Either get busy living or get busy dying. >
+ -------------------------------------------
     \
      \
       (\_/)
