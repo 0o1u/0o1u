@@ -4,8 +4,10 @@
 
 ```
  ___________________________________________
-/ As a matter of fact is an expression that \
-\ precedes many an expression that isn't.   /
+/ No matter how qualified or deserving we   \
+| are, we will never reach a better life    |
+| until we can imagine it for ourselves and |
+\ allow ourselves to have it.               /
  -------------------------------------------
     \
      \
