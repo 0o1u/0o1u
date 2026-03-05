@@ -3,12 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ No matter how qualified or deserving we   \
-| are, we will never reach a better life    |
-| until we can imagine it for ourselves and |
-\ allow ourselves to have it.               /
- -------------------------------------------
+ ________________________________________
+< The destiny of man is in his own soul. >
+ ----------------------------------------
     \
      \
       (\_/)
