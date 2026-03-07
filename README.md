@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- _______________________________________
-/ To handle yourself, use your head; to \
-\ handle others, use your heart.        /
- ---------------------------------------
+ ____________________________________________
+/ Live life as though nobody is watching,    \
+| and express yourself as though everyone is |
+\ listening.                                 /
+ --------------------------------------------
     \
      \
       (\_/)
