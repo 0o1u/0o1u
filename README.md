@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Live life as though nobody is watching,    \
-| and express yourself as though everyone is |
-\ listening.                                 /
- --------------------------------------------
+ ___________________________________
+/ In nature there is no alienation. \
+\ Everything belongs.               /
+ -----------------------------------
     \
      \
       (\_/)
