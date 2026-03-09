@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________
-/ In nature there is no alienation. \
-\ Everything belongs.               /
- -----------------------------------
+ ___________________________________________
+/ You don't earn loyalty in a day. You earn \
+\ loyalty day-by-day.                       /
+ -------------------------------------------
     \
      \
       (\_/)
