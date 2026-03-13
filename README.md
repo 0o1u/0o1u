@@ -3,11 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- _________________________________________
-/ The beautiful journey of today can only \
-| begin when we learn to let go of        |
-\ yesterday.                              /
- -----------------------------------------
+ ____________________________________________
+/ Determine never to be idle. No person will \
+| have occasion to complain of the want of   |
+\ time who never loses any.                  /
+ --------------------------------------------
     \
      \
       (\_/)
