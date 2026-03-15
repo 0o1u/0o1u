@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Awakening is possible only for those who \
-\ seek it and want it.                     /
- ------------------------------------------
+ ___________________________________________
+/ If the happiness and prosperity of other  \
+| people depend on you, you have nothing to |
+\ fear anymore.                             /
+ -------------------------------------------
     \
      \
       (\_/)
